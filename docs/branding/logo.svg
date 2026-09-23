@@ -1,0 +1,7 @@
+<svg width="130" height="130" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>InstApp icon</title>
+  <desc>A rounded dark square icon with a white bar and a sky-blue dot forming an abstract "i" monogram.</desc>
+  <rect x="0" y="0" width="130" height="130" rx="30" fill="#ffffff"/>
+  <rect x="53" y="50" width="24" height="60" rx="12" fill="#111827"/>
+  <circle cx="65" cy="30" r="14" fill="#2F6B4F"/>
+</svg>
